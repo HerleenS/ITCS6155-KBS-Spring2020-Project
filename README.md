@@ -1,6 +1,6 @@
 # ITCS6155-KBS-Spring2020-Project
 
-# Project Site
+# Main Project Site
 https://github.com/saif031197/US-Traffic-accidents
 
 # Group Members
